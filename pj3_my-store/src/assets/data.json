@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "name": "Cup",
+      "price": 4.99,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG",
+      "description": "Drink anything with it!"
+  },
+  {
+      "id": 2,
+      "name": "Macbook",
+      "price": 1499.99,
+      "url": "https://i.etsystatic.com/7991311/r/il/47f89c/1908361401/il_1588xN.1908361401_3opz.jpg",
+      "description": "Work anytime, anywhere!"
+  },
+  {
+      "id": 3,
+      "name": "Backpack",
+      "price": 99.99,
+      "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1",
+      "description": "Carry things around town!"
+  },
+  {
+      "id": 4,
+      "name": "Headphones",
+      "price": 299.99,
+      "url": "https://tainghe.com.vn/media/news/1006_Sony-WF-1000XM4-920x613.jpg",
+      "description": "Listen to stuff!"
+  }
+]
